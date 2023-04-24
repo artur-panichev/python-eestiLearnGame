@@ -1,2 +1,4 @@
 # python-todo-list
-Web site on python django with todo list.
+Веб-сайт - список дел на python.
+
+Участники: Арутр Паничев, Александр Деев, Денис Дунаев
