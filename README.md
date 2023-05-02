@@ -8,3 +8,4 @@
 
 ## Прототип:
 <img src="./prototype.png" width="300px"> <img src="./prototype2.png" width="300px"> <img src="./prototype3.png" width="300px">
+.
