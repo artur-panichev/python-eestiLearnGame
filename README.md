@@ -6,6 +6,6 @@
 **Участники**: Арутр Паничев, Александр Деев, Денис Дунаев<br>
 
 ## Прототип:
-![image](./prototype.png | width=100)
-![image](./prototype2.png | width=100)
-![image](./prototype3.png | width=100)
+![image](./prototype.png)
+![image](./prototype2.png)
+![image](./prototype3.png)
