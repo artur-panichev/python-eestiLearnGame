@@ -1,4 +1,7 @@
 #python -m streamlit run ./app.py
 import streamlit as st;
 
-lable = st.write('Aaa');
+import sys
+sys.path.append("./src/pages/home")
+from homePage import *;
+homePage = HomePage();
