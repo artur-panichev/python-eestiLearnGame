@@ -7,5 +7,4 @@
 
 
 ## Прототип:
-<img src="./public/img/prototype.png" width="300px"> <img src="./public/img/prototype2.png" width="300px"> <img src="./public/imgprototype3.png" width="300px">
-.
+<img src="./public/img/prototype.png" width="300px"> <img src="./public/img/prototype2.png" width="300px"> <img src="./public/img/prototype3.png" width="300px">
