@@ -1,9 +1,10 @@
 import streamlit as st;
+import os;
 
 class HomePage:
     def __init__(self):
-        
-        with open('./src/pages/home/style.css') as f:
+        dirname = os.path.dirname(__file__);
+        with open(f'{dirname}/style.css') as f:
             st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
         
         st.header('Home page');
